@@ -1,2 +1,1 @@
-# Smart_eDNA_Monitoring
-eDNA Monitoring System with only Frontend and Mock Data
+# Smart_eDNA_analysisandmonitoring
